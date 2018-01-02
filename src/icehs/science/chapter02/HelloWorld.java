@@ -7,7 +7,7 @@ public class HelloWorld {
 		//메인 메서드 안에 주석 달기
 		/*
  			여러 줄을
- 			주석 처리할 때
+ 			주석 처리할 경우
 		*/
 			System.out.println("Hello World!");
 			System.out.println("환영합니다. 여러분");
