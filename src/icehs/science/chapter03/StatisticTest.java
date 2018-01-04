@@ -3,6 +3,7 @@ package icehs.science.chapter03;
 public class StatisticTest {
 
 	public static void main(String[] args) {
+		
 		int distance =150000000;
 		double lottoProbability = 0.0000001235;
 		long population = 6973738433L;
