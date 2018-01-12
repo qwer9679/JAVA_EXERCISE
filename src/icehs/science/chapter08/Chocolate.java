@@ -7,6 +7,13 @@ public class Chocolate {
 	private int price;
 	
 	
+	
+	public Chocolate(String name, String type, int price) {
+		super();
+		this.name = name;
+		this.type = type;
+		this.price = price;
+	}
 
 	public Chocolate(String name, int price) {
 		this.name = name;
